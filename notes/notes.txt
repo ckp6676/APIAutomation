@@ -1,0 +1,21 @@
+Why we need Framework?
+>Re-usability
+>Maintainability
+>Readability
+
+first level: creating routes
+second level: creating routes
+third level: implementing test cases
+
+Phases:-
+1.Understanding requirements
+    -functional understanding
+    -swagger
+2.Choose automation tool.- RestAssured Library.
+3.Design
+4.Development
+5.Execution-CI
+
+User endpoints:- it contain pre-req, request-Type.
+Payload:- for every modals, we need data which we keep in payload.
++Utility:- for keeping all reader data
